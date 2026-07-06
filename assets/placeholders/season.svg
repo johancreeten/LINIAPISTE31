@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="t">
+<title id="t">Capsule de saison avec feuilles et pinceau</title>
+<rect width="640" height="420" rx="34" fill="#FFF9F1"/>
+<path d="M42 340 C145 270 178 388 290 312 S466 238 598 303" fill="none" stroke="#E6D3C0" stroke-width="22" stroke-linecap="round" opacity=".75"/>
+<circle cx="525" cy="95" r="72" fill="#F8F1E8"/>
+<circle cx="115" cy="105" r="46" fill="#C9815C" opacity=".25"/>
+<path d="M78 304 C124 260 130 203 99 164" fill="none" stroke="#59634B" stroke-width="8" stroke-linecap="round"/>
+<path d="M99 169 C138 171 150 143 160 111 C123 115 103 136 99 169Z" fill="#7E8C69" opacity=".85"/>
+<path d="M116 219 C156 220 176 194 191 159 C151 162 126 183 116 219Z" fill="#7E8C69" opacity=".72"/>
+<rect x="228" y="116" width="168" height="214" rx="18" fill="#fff" stroke="#E6D3C0" stroke-width="5"/><path d="M252 168 H369 M252 206 H350" stroke="#B86E4B" stroke-width="6" stroke-linecap="round"/><path d="M418 286 L511 193" stroke="#59634B" stroke-width="11" stroke-linecap="round"/>
+<path d="M78 363 C170 335 256 368 338 340 C426 310 500 328 574 291" fill="none" stroke="#2D2926" stroke-width="3" stroke-linecap="round" opacity=".34"/>
+</svg>
